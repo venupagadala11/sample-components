@@ -1,0 +1,86 @@
+.container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.slider-with-divs
+{
+  border:1px solid white;
+  border-radius: 5px;
+  padding:0px 6px;
+  display: flex;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.1);
+  width: 167px;
+  height: 33px;
+  justify-content: center;
+  align-items: center;
+}
+.slider.css-187mznn-MuiSlider-root
+{
+  width: 89px;
+  margin: 0px 10px;
+}
+.align-icons
+{
+  border: 1px solid ;
+  display: flex;
+  justify-content: center;
+  padding: 6px;
+  border-radius: 5px;
+  width: 11.5px;
+  height: 11.5px !important;
+  cursor: pointer;
+}
+
+.mui-slider
+{
+  width: 90%;
+}
+.css-eg0mwd-MuiSlider-thumb
+{
+  height: 10px;
+  width: 5px;
+  border-radius: 15px;
+  color: #FF9600;
+}
+.css-1tfve6q-MuiSlider-mark
+{
+  display: none;
+}
+.css-6cwnna-MuiSlider-mark
+{
+  display: none;
+}
+.css-eg0mwd-MuiSlider-thumb
+{
+  width: 5px !important;
+  height: 10px !important;
+  border: 250x !important;
+  color: #FF9600 !important;
+  border-radius: 25px !important;
+}
+
+.css-14pt78w-MuiSlider-rail
+{
+  opacity: 1 !important;
+  color: gray !important;
+}
+.css-1gv0vcd-MuiSlider-track
+{
+  border: none !important;
+  color: gray;
+  height: 1px !important;
+}
+.css-14pt78w-MuiSlider-rail
+{
+  height: 1px !important;
+}
+.css-nnid7-MuiSlider-valueLabel
+{
+  display: none;
+}
+
+
+
